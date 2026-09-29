@@ -1,3 +1,3 @@
-hi :3
+hi
 
 sources images for stuff
